@@ -1,4 +1,3 @@
-'use client';
 
 export const metadata = { title: 'Contatti – Blockchain Food Trust' };
 export default function Page() {
