@@ -1,4 +1,3 @@
-'use client';
 
 export const metadata = { title: 'Prodotti tracciati – Blockchain Food Trust' };
 export default function Page() {
